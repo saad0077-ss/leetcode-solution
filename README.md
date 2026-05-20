@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
 ## Sorting
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
