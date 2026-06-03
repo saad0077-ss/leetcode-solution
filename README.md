@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -52,9 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
