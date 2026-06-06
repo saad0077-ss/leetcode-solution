@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/saad0077-ss/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
