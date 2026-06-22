@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saad0077-ss/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saad0077-ss/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saad0077-ss/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saad0077-ss/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
