@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [3110-score-of-a-string](https://github.com/saad0077-ss/leetcode-solution/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
+| [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saad0077-ss/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
