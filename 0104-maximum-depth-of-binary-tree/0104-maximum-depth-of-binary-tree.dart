@@ -11,9 +11,8 @@ class Solution {
   int maxDepth(TreeNode? root) {
     if(root == null)return 0;
 
-    int leftHeight = maxDepth(root.left);
-    int rightHeight = maxDepth(root.right);
-
-    return 1 + (leftHeight > rightHeight ? leftHeight : rightHeight);
+    return 1 + max(maxDepth(root.left),maxDepth(root.right));
   }
+
+  int max(int a,int b) => a > b ? a : b;
 }
