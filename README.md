@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saad0077-ss/leetcode-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
