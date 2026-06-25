@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saad0077-ss/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/saad0077-ss/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saad0077-ss/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
