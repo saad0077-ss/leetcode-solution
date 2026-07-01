@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saad0077-ss/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/saad0077-ss/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saad0077-ss/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saad0077-ss/leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saad0077-ss/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saad0077-ss/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
@@ -274,4 +278,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
