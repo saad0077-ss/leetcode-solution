@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/saad0077-ss/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/saad0077-ss/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saad0077-ss/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/saad0077-ss/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saad0077-ss/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
