@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/saad0077-ss/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saad0077-ss/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/saad0077-ss/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saad0077-ss/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/saad0077-ss/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/saad0077-ss/leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/saad0077-ss/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
