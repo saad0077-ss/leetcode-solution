@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/saad0077-ss/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/saad0077-ss/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/saad0077-ss/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saad0077-ss/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
+| [1260-shift-2d-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/saad0077-ss/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
