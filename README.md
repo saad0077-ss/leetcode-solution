@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/saad0077-ss/leetcode-solution/tree/master/1288-remove-covered-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/saad0077-ss/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saad0077-ss/leetcode-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1688-count-of-matches-in-tournament](https://github.com/saad0077-ss/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
