@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/saad0077-ss/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/saad0077-ss/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saad0077-ss/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saad0077-ss/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/saad0077-ss/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [1301-number-of-paths-with-max-score](https://github.com/saad0077-ss/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
