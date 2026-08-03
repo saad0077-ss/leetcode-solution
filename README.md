@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saad0077-ss/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/saad0077-ss/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/saad0077-ss/leetcode-solution/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/saad0077-ss/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/saad0077-ss/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saad0077-ss/leetcode-solution/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/saad0077-ss/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/saad0077-ss/leetcode-solution/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saad0077-ss/leetcode-solution/tree/master/1344-angle-between-hands-of-a-clock) |
