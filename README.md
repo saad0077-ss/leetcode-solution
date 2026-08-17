@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/saad0077-ss/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/saad0077-ss/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saad0077-ss/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/saad0077-ss/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saad0077-ss/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/saad0077-ss/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/saad0077-ss/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saad0077-ss/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saad0077-ss/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/saad0077-ss/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
