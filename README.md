@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saad0077-ss/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saad0077-ss/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0115-distinct-subsequences](https://github.com/saad0077-ss/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saad0077-ss/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/saad0077-ss/leetcode-solution/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/saad0077-ss/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [1301-number-of-paths-with-max-score](https://github.com/saad0077-ss/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
