@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/saad0077-ss/leetcode-solution/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/saad0077-ss/leetcode-solution/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/saad0077-ss/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/saad0077-ss/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/saad0077-ss/leetcode-solution/tree/master/1672-richest-customer-wealth) |
