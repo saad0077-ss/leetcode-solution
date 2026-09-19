@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/saad0077-ss/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saad0077-ss/leetcode-solution/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/saad0077-ss/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1688-count-of-matches-in-tournament](https://github.com/saad0077-ss/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -460,4 +461,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/saad0077-ss/leetcode-solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/saad0077-ss/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
