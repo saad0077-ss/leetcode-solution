@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saad0077-ss/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saad0077-ss/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/saad0077-ss/leetcode-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saad0077-ss/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saad0077-ss/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/saad0077-ss/leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/saad0077-ss/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saad0077-ss/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/saad0077-ss/leetcode-solution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saad0077-ss/leetcode-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/saad0077-ss/leetcode-solution/tree/master/1920-build-array-from-permutation) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saad0077-ss/leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saad0077-ss/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saad0077-ss/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/saad0077-ss/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saad0077-ss/leetcode-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saad0077-ss/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
