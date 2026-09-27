@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/saad0077-ss/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saad0077-ss/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/saad0077-ss/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saad0077-ss/leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saad0077-ss/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saad0077-ss/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saad0077-ss/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/saad0077-ss/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/saad0077-ss/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saad0077-ss/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
