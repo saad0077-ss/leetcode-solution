@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/saad0077-ss/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saad0077-ss/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/saad0077-ss/leetcode-solution/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/saad0077-ss/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/saad0077-ss/leetcode-solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
