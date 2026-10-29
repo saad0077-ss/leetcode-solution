@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/saad0077-ss/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/saad0077-ss/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/saad0077-ss/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/saad0077-ss/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/saad0077-ss/leetcode-solution/tree/master/1051-height-checker) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/saad0077-ss/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saad0077-ss/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
