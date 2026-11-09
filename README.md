@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/saad0077-ss/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Divide and Conquer
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saad0077-ss/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/saad0077-ss/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/saad0077-ss/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/saad0077-ss/leetcode-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saad0077-ss/leetcode-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
