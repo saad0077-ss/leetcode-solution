@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/saad0077-ss/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/saad0077-ss/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/saad0077-ss/leetcode-solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saad0077-ss/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saad0077-ss/leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saad0077-ss/leetcode-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saad0077-ss/leetcode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/saad0077-ss/leetcode-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/saad0077-ss/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/saad0077-ss/leetcode-solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saad0077-ss/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/saad0077-ss/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/saad0077-ss/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/saad0077-ss/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/saad0077-ss/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/saad0077-ss/leetcode-solution/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/saad0077-ss/leetcode-solution/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saad0077-ss/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/saad0077-ss/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/saad0077-ss/leetcode-solution/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -507,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/saad0077-ss/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saad0077-ss/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saad0077-ss/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/saad0077-ss/leetcode-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
